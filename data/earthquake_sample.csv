@@ -1,0 +1,4 @@
+Event_wiki_page,UTC,Country,Location_iso3,Latitude,Longitude,Magnitude,Depth (km),MMI,Death_wiki,Location_fips,Event_id,UTC_round
+2024 Noto earthquake,2024-01-01 07:10:09,Japan,JPN,37.495,137.265,7.5,10.0,XI (Extreme),339,JA,240101_Japan,2024-01-01 07:15:00
+2024 Hualien earthquake,2024-04-02 23:58:11,Taiwan,TWN,23.819,121.562,7.4,40.0,VIII (Severe),18,TW,240402_Taiwan,2024-04-03 00:00:00
+2023 Al Haouz earthquake,2023-09-08 22:11:01,Morocco,MAR,31.058,-8.385,6.8,19.0,IX (Violent),2960,MO,230908_Morocco,2023-09-08 22:15:00
